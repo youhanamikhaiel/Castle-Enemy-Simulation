@@ -66,6 +66,3 @@ c:\bc5\lib and c:\bc5\include.  If your standard libraries are located in a
 different directory, you will have to right-click the top-level project node,
 select Edit Local Options and change the paths appropriately.
 
-Once you compile the project, you'll notice many warnings are generated.  All
-can be safely ignored; if you figure out how to suppress them, send mail to
-mjs@cs.cmu.edu.
