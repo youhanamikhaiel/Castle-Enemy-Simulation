@@ -9,4 +9,4 @@ There are four types of enemies:<br />
 <br />
 Six test cases were generated in .txt files to see whether the game is WIN, LOSR or DRAW. <br />
 
-![alt text](https://github.com/youhanamikhaiel/Castle-Enemy-Simulation/blob/master/Castle-Enemy-Simulation.png)
+![alt text](https://github.com/youhanamikhaiel/Castle-Enemy-Simulation/blob/master/Castel-Enemy-Simulation.png)
